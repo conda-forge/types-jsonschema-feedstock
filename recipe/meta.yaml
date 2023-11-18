@@ -1,4 +1,4 @@
-{% set version = "4.19.0.4" %}
+{% set version = "4.20.0.0" %}
 
 package:
   name: types-jsonschema
@@ -6,7 +6,7 @@ package:
 
 source:
   - url: https://pypi.io/packages/source/t/types-jsonschema/types-jsonschema-{{ version }}.tar.gz
-    sha256: 994feb6632818259c4b5dbd733867824cb475029a6abc2c2b5201a2268b6e7d2
+    sha256: 0de1032d243f1d3dba8b745ad84efe8c1af71665a9deb1827636ac535dcb79c1
   - url: https://raw.githubusercontent.com/python/typeshed/main/LICENSE
     sha256: 295f8538c94ae5c3043301cf7cff1c852dab6a786a8ddee471e061b40d5ecabe
 
